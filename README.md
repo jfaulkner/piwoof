@@ -1,6 +1,6 @@
 # piwoof
 
-Quick python to send a SMS message through a designated gmail account or phone number (example is Verizon - <phone number@vtext>. You can create a burner gmail account and store your password in ~/.credentials/ then get notified when the script is executed. The table below is a mapping from Digital Trends 2022 article (https://www.digitaltrends.com/mobile/how-to-send-a-text-from-your-email-account/).
+Quick python to send a SMS message through a designated gmail account or phone number (example is Verizon - <phone number@vtext>. In my case, I wanted to send a notification on an event from another process. You can create a burner gmail account and store your password in ~/.credentials/ then get notified when the script is executed. The table below is a mapping from Digital Trends 2022 article (https://www.digitaltrends.com/mobile/how-to-send-a-text-from-your-email-account/).
 
 
 Carrier	          SMS Gateway Domain	              MMS Gateway Domain  
